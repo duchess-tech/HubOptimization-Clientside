@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (button) {
       button.addEventListener('click', handler);
     } else {
-      console.error(`Button with id "${buttonId}" not found.`);
+      console.error
     }
   }
 
